@@ -1,0 +1,1 @@
+hellooo you find references in the code sample to let the code to be functional just need to put your images in the different folders of the .zip depending on whether it is training or testing set
